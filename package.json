@@ -1,5 +1,5 @@
 {
-  "name": "project-tea-core-heler",
+  "name": "helersummathd",
   "version": "1.0.2",
   "description": "my package",
   "main": "index.js",
@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/helerhoang/project-tea-core-heler.git"
+    "url": "git+https://github.com/helerhoang/helersummathd.git"
   },
   "bugs": {
-    "url": "https://github.com/helerhoang/project-tea-core-heler/issues"
+    "url": "https://github.com/helerhoang/helersummathd/issues"
   },
-  "homepage": "https://github.com/helerhoang/project-tea-core-heler#readme",
+  "homepage": "https://github.com/helerhoang/helersummathd#readme",
   "scripts": {
     "test": "test"
   },
