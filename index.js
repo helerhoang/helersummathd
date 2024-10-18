@@ -1,2 +1,2 @@
-const core = (a, b) => a * b * c * d
+const core = (a, b) => a * b
 exports.core = core
